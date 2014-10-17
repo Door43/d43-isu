@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[isu:home|Door43 (isu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-isu|d43-isu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-isu/archive/master.zip|d43-isu.zip]]
+
+**Recent Changes**
+{{changes>ns = isu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/isu|Ethnologue data]]
+
